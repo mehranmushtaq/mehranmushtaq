@@ -1,7 +1,7 @@
-# 💫 About Me:
+# About Me:
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehr_aan1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehraan551@gmail.com) 
 
 # 💻 Tech Stack:
