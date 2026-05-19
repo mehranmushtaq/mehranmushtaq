@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**mehranmushtaq/mehranmushtaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 CSE Student
+- 💻 Interested in Software Development & AI
+- 🌱 Currently learning DSA, DBMS, and Machine Learning
+- ⚡ Skilled in C, Python, C++, HTML, and DBMS
+- 🛠️ Building projects and improving coding skills
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Languages: C, Python, C++
+- 🌐 Web: HTML
+- 🗄️ Database: DBMS, SQL
+- 🤖 Interests: AI, ML, SaaS, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Data Structures & Algorithms
+- Machine Learning Projects
+- Open Source & GitHub Projects
+
+## 📫 Connect With Me
+- GitHub: mehranmushtaq
+
