@@ -18,7 +18,7 @@
 - 🏗️ Building real projects from scratch and deploying them
 - 📚 Currently learning: **CNN, NLP, Flask**
 - 💡 Believer in: *“Build it. Break it. Learn it.”*
-- 📍 From **Tral, Kashmir** — proving location is no barrier
+- 📍 From **Kashmir** — proving location is no barrier
 
 -----
 
@@ -98,19 +98,6 @@
 
 -----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehranmushtaq&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehranmushtaq&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehranmushtaq&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
------
-
 ## 🎯 Currently Working On
 
 ```python
@@ -130,7 +117,7 @@ current_focus = {
 Machine Learning          ████████████████████  100%
 Deep Learning (ANN)       ████████████████░░░░   80%
 Deep Learning (CNN/NLP)   ████████░░░░░░░░░░░░   40%
-DSA                       ████████████░░░░░░░░   60%
+DSA                       ██████░░░░░░░░░░░░░    30%
 Flask / Backend           ████░░░░░░░░░░░░░░░░   20%
 ```
 
@@ -157,5 +144,5 @@ Flask / Backend           ████░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <i>"From Tral, Kashmir — built everything from scratch, one commit at a time."</i> 🚀
+  <i>"Kashmir — built everything from scratch, one commit at a time."</i> 🚀
 </p>
